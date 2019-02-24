@@ -2,7 +2,7 @@ Origin: FutureFlash's Repository 323
 Label: FutureFlash Repo
 Icon: logo.png
 Suite: stable
-Version: 7.4.5.7.0.0
+Version: 1.0
 Codename: futureflash
 Architectures: iphoneos-arm
 Components: main
