@@ -1,14 +1,13 @@
 Package: com.laith.zeppelin
+FileName: Zeppelin Modded
 Name: Zeppelin Modded
-Icon: http://i.imgur.com/tvLxnB5.png
-Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader  
+Icon: https://i.imgur.com/tvLxnB5.png
+Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader
 Version: 7.4.5.7.0.0-1
 Architecture: iphoneos-arm
 Description: My modified version of Zeppelin
 Homepage: http://futureflash.tk
-Depiction: http://modmyi.com/info/zeppelin.d.php
 Priority: extra
 Maintainer: FutureFlash <laithayoub71@gmail.com>
-Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 Author: Laith (FutureFlash) <laithayoub71@gmail.com>
 Section: Tweaks
