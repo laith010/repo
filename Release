@@ -1,0 +1,8 @@
+Origin: FutureFlash's Repository
+Label: FutureFlash Repo
+Suite: stable
+Version: 7.4.5.7.0.0
+Codename: futureflash
+Architectures: iphoneos-arm
+Components: main
+Description: Laith (FutureFlash)'s custom Cylinder package
